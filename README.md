@@ -1,4 +1,4 @@
-**DESCRIPTION**
+**DESCRIPTION**  
 This repo makes a predictive model on bus delays in Toronto using features like routes, time, direction.
 Possible uses can be real-time information update for internal transit purposes and to update transit users immediately about estimated delay times.
 
