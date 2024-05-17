@@ -1,5 +1,5 @@
 
-<img src="https://github.com/deepparekh02/bus-delay-prediction-ML/assets/65657471/0198a9f3-5303-4465-8b8c-16351415f0cc" width="100">
+<img src="https://github.com/deepparekh02/bus-delay-prediction-ML/assets/65657471/0198a9f3-5303-4465-8b8c-16351415f0cc" width="500">
 
 **DESCRIPTION**  
 This repo makes a predictive model on bus delays in Toronto using features like routes, time, direction.
